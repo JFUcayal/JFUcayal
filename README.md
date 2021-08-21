@@ -1,8 +1,7 @@
  ### Hi there!  
- 
  ---
 
-- 🎓 Industrial Electronics and Computers Engineering student at [@UMinho-DEI](https://www.dei.uminho.pt/).<br>
+- 🎓 Industrial Electronics and Computers Engineering student at [@UMinho-DEI](https://www.dei.uminho.pt/).
 
 ---
 #### 💻<em> **Languages and tools:** </em>
