@@ -13,7 +13,9 @@
 <img align="left" alt="C" width="px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> 
 
  <img align="left" alt="c#" width="px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <br>
-
+ 
+ <img align="left" alt="c#" width="px" src="https://img.shields.io/badge/Assembly-8051-success"/> <br>
+ 
 ---
 
 <a href="mailto:jhof2002@gmail.com">
