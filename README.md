@@ -18,7 +18,7 @@
  
 ---
 
-<a href="mailto:jhof2002@gmail.com">
+<a href="mailto:jhoferreira02@gmail.com">
   <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a> <br> <br>
 <img align="left" alt="Markdown" width="px" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"/> 
