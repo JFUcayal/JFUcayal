@@ -15,10 +15,17 @@
 <br>
 
 ---
-
+<em> **Contact me:** </em>
 <a href="mailto:jhoferreira02@gmail.com">
   <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a> <br> <br>
+</a>
+
+<a href="https://www.linkedin.com/in/jo%C3%A3o-ferreira-8baa01285/">
+  <img align="left" src="https://img.shields.io/badge/Linkedin-D14836?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br> <br>
+
 <img align="left" alt="Markdown" width="px" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"/> 
 
 <!---
