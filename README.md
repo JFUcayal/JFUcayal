@@ -7,13 +7,13 @@
 #### 💻<em> **Languages and tools:** </em>
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,nodejs,vscode,latex" />
+    <img src="https://skillicons.dev/icons?i=linux,windowsc,cpp,html,css,js,nodejs,vscode,visualstudio,latex" />
 </p>
 
-<br>
-<p>
+<p> <!--
     <img align="left" alt=" " width="px" src="https://img.shields.io/badge/OS-Linux-0b5394?logo=linux&logoColor=white"/>
     <img align="left" alt=" " width="px" src="https://img.shields.io/badge/OS-Windows-0b5394?logo=windows 10&logoColor=white"/>
+    -->   
     <img align="left" alt=" " width="px" src="https://img.shields.io/badge/μController-8051-dc4141?&logoColor=white"/>
     <img align="left" alt=" " width="px" src="https://img.shields.io/badge/μController-Arduino-dc4141?logo=Arduino&logoColor=white"/>
     <img align="left" alt=" " width="px" src="https://img.shields.io/badge/μController-STM32-dc4141?logo=stmicroelectronics&logoColor=white"/>
