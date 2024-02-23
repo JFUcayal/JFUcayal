@@ -13,7 +13,7 @@
 <br>
 <p>
     <img align="left" alt=" " width="px" src="https://img.shields.io/badge/Assembly-8051-success"/>
-    <img align="left" alt=" " width="px" src="https://img.shields.io/badge/OS-linux-blue?logo=linux"/>
+    <img align="left" alt=" " width="px" src="https://img.shields.io/badge/OS-linux-0b5394?logo=linux&logoColor=white"/>
 </p>
 <br>
 
