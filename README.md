@@ -6,21 +6,13 @@
 ---
 #### 💻<em> **Languages and tools:** </em>
 
-<img align="left" alt="Windows" width="px" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-
-<img align="left" alt="C++" width="px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> 
-	 
-<img align="left" alt="C" width="px" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> 
-
- <img align="left" alt="c#" width="px" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <br>
- 
- <img align="left" alt="c#" width="px" src="https://img.shields.io/badge/Assembly-8051-success"/> <br>
- 
----
-
 <p align="center">
     <img src="https://skillicons.dev/icons?i=linux,windows,arduino,raspberrypi,c,cpp,html,css,js,nodejs,vscode,latex" />
 </p>
+
+<br>
+    <img align="left" alt="c#" width="px" src="https://img.shields.io/badge/Assembly-8051-success"/>
+<br>
 
 ---
 
@@ -28,7 +20,6 @@
   <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a> <br> <br>
 <img align="left" alt="Markdown" width="px" src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg"/> 
-
 
 <!---
 JFUcayal/JFUcayal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
