@@ -22,7 +22,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-ferreira-8baa01285/">
-  <img align="left" src="https://img.shields.io/badge/Linkedin-D14836?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img align="left" src="https://img.shields.io/badge/Linkedin-2986cc?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br> <br>
