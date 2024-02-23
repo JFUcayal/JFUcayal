@@ -14,7 +14,7 @@
 <p>
     <img align="left" alt=" " width="px" src="https://img.shields.io/badge/OS-Linux-0b5394?logo=linux&logoColor=white"/>
     <img align="left" alt=" " width="px" src="https://img.shields.io/badge/OS-Windows-0b5394?logo=windows 10&logoColor=white"/>
-    <img align="left" alt=" " width="px" src="https://img.shields.io/badge/Microcontroller-Arduino-0b5394?logo=Arduino&logoColor=white"/>
+    <img align="left" alt=" " width="px" src="https://img.shields.io/badge/μController-Arduino-0b5394?logo=Arduino&logoColor=white"/>
     <img align="left" alt=" " width="px" src="https://img.shields.io/badge/Assembly-8051-success"/>
 </p>
 <br>
