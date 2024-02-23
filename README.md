@@ -16,6 +16,7 @@
     <img align="left" alt=" " width="px" src="https://img.shields.io/badge/OS-Windows-0b5394?logo=windows 10&logoColor=white"/>
     <img align="left" alt=" " width="px" src="https://img.shields.io/badge/μController-8051-dc4141?&logoColor=white"/>
     <img align="left" alt=" " width="px" src="https://img.shields.io/badge/μController-Arduino-dc4141?logo=Arduino&logoColor=white"/>
+    <img align="left" alt=" " width="px" src="https://img.shields.io/badge/μController-STM32-dc4141?logo=STMicroeletronics&logoColor=white"/>
     <img align="left" alt=" " width="px" src="https://img.shields.io/badge/μController-Raspberry Pi-dc4141?logo=Raspberry Pi&logoColor=white"/>
 </p>
 <br>
