@@ -6,8 +6,8 @@
 ---
 #### 💻<em> **Languages and tools:** </em>
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=linux,windows,arduino,raspberrypi,c,cpp,html,css,js,nodejs,vscode,latex" />
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=linux,windows,c,cpp,html,css,js,nodejs,arduino,raspberrypi,vscode,latex" />
 </p>
 
 <br>
