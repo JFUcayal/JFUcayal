@@ -14,7 +14,7 @@
 <p>
     <img align="left" alt=" " width="px" src="https://img.shields.io/badge/OS-Linux-0b5394?logo=linux&logoColor=white"/>
     <img align="left" alt=" " width="px" src="https://img.shields.io/badge/OS-Windows-0b5394?logo=windows 10&logoColor=white"/>
-    <img align="left" alt=" " width="px" src="https://img.shields.io/badge/μController-8051-0b5394&logoColor=white"/>
+    <img align="left" alt=" " width="px" src="https://img.shields.io/badge/μController-8051-0b5394?&logoColor=white"/>
     <img align="left" alt=" " width="px" src="https://img.shields.io/badge/μController-Arduino-0b5394?logo=Arduino&logoColor=white"/>
     <img align="left" alt=" " width="px" src="https://img.shields.io/badge/μController-Raspberry Pi-0b5394?logo=Raspberry Pi&logoColor=white"/>
 </p>
