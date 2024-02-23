@@ -12,8 +12,9 @@
 
 <br>
 <p>
+    <img align="left" alt=" " width="px" src="https://img.shields.io/badge/OS-Linux-0b5394?logo=linux&logoColor=white"/>
+    <img align="left" alt=" " width="px" src="https://img.shields.io/badge/OS-Windows-0b5394?logo=windows&logoColor=white"/>
     <img align="left" alt=" " width="px" src="https://img.shields.io/badge/Assembly-8051-success"/>
-    <img align="left" alt=" " width="px" src="https://img.shields.io/badge/OS-linux-0b5394?logo=linux&logoColor=white"/>
 </p>
 <br>
 
@@ -25,7 +26,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/jo%C3%A3o-ferreira-8baa01285/">
-  <img align="left" src="https://img.shields.io/badge/Linkedin-2986cc?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img align="left" src="https://img.shields.io/badge/Linkedin-0b5394?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br> <br>
