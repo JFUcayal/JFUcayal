@@ -11,9 +11,11 @@
 </p>
 
 <br>
+<p>
     <img align="left" alt="c#" width="px" src="https://img.shields.io/badge/Assembly-8051-success"/>
-    <img align="left" alt="c#" width="px" src="https://img.shields.io/badge/linux-8051-success"/>
+    <img align="left" alt="c#" width="px" src=" https://img.shields.io/linux/v/linux.svg?logo=linux"/>
     <img align="left" alt="c#" width="px" src="https://img.shields.io/badge/Assembly-8051-success"/>
+</p>
 <br>
 
 ---
