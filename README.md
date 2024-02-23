@@ -22,7 +22,7 @@
 <br>
 
 ---
-#### <em> **Contact me:** </em>
+#### 📫 <em> **Contact me:** </em>
 
 <a href="mailto:jhoferreira02@gmail.com">
   <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
