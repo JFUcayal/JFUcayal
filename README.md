@@ -18,7 +18,7 @@
     <img align="left" alt=" " width="px" src="https://img.shields.io/badge/μController-Arduino-dc4141?logo=Arduino&logoColor=white"/>
     <img align="left" alt=" " width="px" src="https://img.shields.io/badge/μController-ESP32-dc4141?logo=espressif&logoColor=white"/>
     <img align="left" alt=" " width="px" src="https://img.shields.io/badge/μController-STM32-dc4141?logo=stmicroelectronics&logoColor=white"/>
-    <img align="left" alt=" " width="px" src="https://img.shields.io/badge/Raspberry Pi-dc4141?logo=Raspberry Pi&logoColor=white"/>
+    <img align="left" alt=" " width="px" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi&logoColor=white"/>
 </p>
 <br>
 
