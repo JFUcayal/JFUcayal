@@ -7,7 +7,7 @@
 #### 💻<em> **Languages and tools:** </em>
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=linux,windows,c,cpp,html,css,js,nodejs,vscode,visualstudio,latex" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,raspberrypi,bash,windows,c,cpp,nodejs,js,html,css,vscode,visualstudio,latex" />
 </p>
 
 <p> <!--
